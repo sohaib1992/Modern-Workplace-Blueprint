@@ -41,4 +41,4 @@ We held meetings and designed an IT questionnaire. Both IT staff and users highl
 ## Lessons Learned
 - Start with user feedback.
 - Pilot before scaling.
-- Simplify policies—avoid replicating all GPOs.
+- Simplify policies avoid replicating all GPOs.
